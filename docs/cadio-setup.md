@@ -94,11 +94,9 @@ If you want to add more control features:
 
 ## 7️⃣ Screenshots 
 
-Add these to your repo’s `docs/diagrams/` folder later:
-
 | Screenshot | Description |
 |-------------|--------------|
-| `cadio-device-dashboard.png` | Shows the relay controls in app |
-| `cadio-action-setup.png` | Shows how an action is configured |
-| `cadio-voice-command.png` | Shows a voice command trigger |
+| `flash-interface.png` | Shows the Flash tool interface |
+| `cadio-flash-interface.png` | Shows how an action is configured |
+| `cadio-voice-control.png` | Shows a voice command trigger |
 
