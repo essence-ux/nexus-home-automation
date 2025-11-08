@@ -1,5 +1,5 @@
 Part,Quantity,Description,Specifications/Notes,Approx. Price (INR)
-Cadio Dynamic Module,1,Pre-flashed control module for home automation,Works as main controller for relay interface,₹500–₹700
+ESP-32 DevKit, 1, Overall Microcontroller, 5V, -, ₹400–₹800
 4-Channel Relay Module,1,Relay board to switch AC/DC loads,5V coil, opto-isolated, rated up to 10A per channel,₹150–₹250
 5V DC Power Adapter,1,Powers the relay board and Cadio module,5V 2A regulated adapter,₹150–₹300
 Jumper Wires (Male-Female),10,Used to connect relay input pins to controller module,20cm Dupont wire pack,₹50–₹100
