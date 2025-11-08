@@ -92,7 +92,7 @@ If you want to add more control features:
   
 ---
 
-## 7️⃣ Example Screenshots (optional)
+## 7️⃣ Screenshots 
 
 Add these to your repo’s `docs/diagrams/` folder later:
 
