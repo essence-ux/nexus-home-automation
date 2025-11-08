@@ -1,0 +1,27 @@
+# Ensure consistent text file handling
+* text=auto eol=lf
+
+# Treat these as text files (normalize line endings)
+*.md      text
+*.csv     text
+*.txt     text
+*.json    text
+*.yml     text
+
+# Treat these as binary files (no diff)
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.bin     binary
+*.pdf     binary
+*.zip     binary
+
+# Ensure GitHub linguist detects docs correctly
+docs/* linguist-documentation=true
+hardware/* linguist-documentation=true
+examples/* linguist-documentation=true
+
+# Optional: Mark firmware directory as non-source
+firmware/* linguist-generated=true
+
+# End of file
