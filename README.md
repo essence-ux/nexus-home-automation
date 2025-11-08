@@ -73,8 +73,8 @@ Always verify your relay board specifications, as coil current and logic levels 
 ## 6. References
 
 - [Cadio Documentation](https://egycad.com/cadio)  
-- [Relay Module Datasheet]([https://components101.com/modules/5v-4-channel-relay-module](https://components101.com/switches/5v-single-channel-relay-module-pinout-features-applications-working-datasheet))  
-- [Cadio Flasher Tool]([https://www.cadio.io/flasher](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool.html))
+- [Relay Module Datasheet](https://components101.com/switches/5v-single-channel-relay-module-pinout-features-applications-working-datasheet)  
+- [Cadio Flasher Tool](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool.html)
 
 ---
 
