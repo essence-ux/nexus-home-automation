@@ -96,7 +96,8 @@ If you want to add more control features:
 
 | Screenshot | Description |
 |-------------|--------------|
-| `flash-interface.png` | Shows the Flash tool interface |
-| `cadio-flash-interface.png` | Shows how an action is configured |
-| `cadio-voice-control.png` | Shows a voice command trigger |
+| [<img src="diagrams/flash-interface.png" width="300">](diagrams/flash-interface.png) | Shows the Flash tool interface |
+| [<img src="diagrams/cadio-flash-interface.png" width="300">](diagrams/cadio-flash-interface.png) | Shows how an action is configured |
+| [<img src="diagrams/cadio-voice-control.png" width="300">](diagrams/cadio-voice-control.png) | Shows a voice command trigger |
+
 
