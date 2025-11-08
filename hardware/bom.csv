@@ -1,0 +1,11 @@
+Part,Quantity,Description,Specifications/Notes,Approx. Price (INR)
+Cadio Dynamic Module,1,Pre-flashed control module for home automation,Works as main controller for relay interface,₹500–₹700
+4-Channel Relay Module,1,Relay board to switch AC/DC loads,5V coil, opto-isolated, rated up to 10A per channel,₹150–₹250
+5V DC Power Adapter,1,Powers the relay board and Cadio module,5V 2A regulated adapter,₹150–₹300
+Jumper Wires (Male-Female),10,Used to connect relay input pins to controller module,20cm Dupont wire pack,₹50–₹100
+USB Cable,1,For connecting the Cadio module during flashing,Micro USB or Type-C (depending on module),₹80–₹150
+Breadboard (optional),1,For temporary prototyping or testing connections,830 tie-point or similar,₹100–₹200
+Screw-terminal Connectors (optional),1,For neat and secure relay-to-load connections,2-pin/3-pin pluggable type,₹30–₹70
+Plastic Enclosure (optional),1,To mount and protect the relay + Cadio setup,ABS project box,₹150–₹300
+AC Load (Bulb/Fan/Demo Device),1–4,Actual appliances used for demonstration,Connect to relay output COM/NO pins,₹200–₹800
+Multimeter (Tool),1,Used for voltage and continuity checks during testing,Standard digital multimeter,₹400–₹800
